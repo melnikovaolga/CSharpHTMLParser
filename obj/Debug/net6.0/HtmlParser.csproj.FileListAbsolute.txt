@@ -1,0 +1,17 @@
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/HtmlParser
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/HtmlParser.deps.json
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/HtmlParser.runtimeconfig.json
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/HtmlParser.dll
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/ref/HtmlParser.dll
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/HtmlParser.pdb
+/Users/olgamelnikova/Desktop/projects/HtmlParser/bin/Debug/net6.0/AngleSharp.dll
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.csproj.AssemblyReference.cache
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.AssemblyInfoInputs.cache
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.AssemblyInfo.cs
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.csproj.CoreCompileInputs.cache
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.csproj.CopyComplete
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.dll
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/ref/HtmlParser.dll
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.pdb
+/Users/olgamelnikova/Desktop/projects/HtmlParser/obj/Debug/net6.0/HtmlParser.genruntimeconfig.cache
